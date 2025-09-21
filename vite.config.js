@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/HangMan_Word_gesh_game.git/',
+  base: '/HangMan_Word_gesh_game/'
 
 
 })
